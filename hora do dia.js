@@ -9,7 +9,6 @@ if (horas>=0 && horas<12){
     //Bom Dia!
     img.src = "Manhã.png"
     text.innerHTML = "Bom Dia!"
-    document.body.style.
 }else if (horas>=12 && horas<18){
     //Boa Tarde!
     img.src = "Tarde.png"
